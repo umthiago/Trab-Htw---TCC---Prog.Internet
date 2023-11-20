@@ -1,4 +1,4 @@
-# Planning Tasks
+# HtW - Informativo Sobre Ansiedade & Depressão
 ## :memo: Descrição
 Contém apenas a página inicial do gerenciador de projetos para auxiliar o ensino da metodologia ágil Scrum no ambiente acadêmico.
 
